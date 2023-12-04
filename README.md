@@ -958,25 +958,3 @@ To read more on different kinds of CSS support and Storybook click [here](https:
 ## Wrapping Up
 
 You should now have a good understanding about how to create your own React component library.  Doing so can not only teach you a lot about how the Javascript package management ecosystem works, but it can be a great way to make code that you use across multiple projects easily available with a simple command.
-
-Please check some of my other learning tutorials.  Feel free to leave a comment or question and share with others if you find any of them helpful:
-
-- [Running a Local Web Server](https://dev.to/alexeagleson/understanding-the-modern-web-stack-running-a-local-web-server-4d8g)
-
-- [ESLint](https://dev.to/alexeagleson/understanding-the-modern-web-stack-linters-eslint-59pm)
-
-- [Prettier](https://dev.to/alexeagleson/understanding-the-modern-web-stack-prettier-214j)
-
-- [Babel](https://dev.to/alexeagleson/building-a-modern-web-stack-babel-3hfp)
-
-- [React & JSX](https://dev.to/alexeagleson/understanding-the-modern-web-stack-react-with-and-without-jsx-31c7)
-
-- [Webpack: The Basics](https://dev.to/alexeagleson/understanding-the-modern-web-stack-webpack-part-1-2mn1)
-
-- [Webpack: Loaders, Optimizations & Bundle Analysis](https://dev.to/alexeagleson/understanding-the-modern-web-stack-webpack-part-2-49bj)
-
-- [Webpack: DevServer, React & Typescript](https://dev.to/alexeagleson/understanding-the-modern-web-stack-webpack-devserver-react-typescript-4b9b)
-
----
-
-For more tutorials like this, follow me <a href="https://twitter.com/eagleson_alex?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">@eagleson_alex</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> on Twitter
