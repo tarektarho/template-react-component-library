@@ -1,6 +1,6 @@
 # React Component Library Template
 
-This project is part of a [blog & video tutorial](https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe) on how to create and publish your own component library.
+This project is part of a [blog](https://dev.to/alexeagleson/how-to-create-and-publish-a-react-component-library-2oe) on how to create and publish your own component library.
 
 You can use this repo to fork as a template for your own React library projects.  
 
